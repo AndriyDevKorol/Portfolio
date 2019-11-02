@@ -145,8 +145,7 @@ header {
   color: #eece1a; }
 
 main {
-  padding: 4rem;
-  min-height: calc(100vh - 40px); }
+  padding: 4rem; }
   main .icons {
     margin-top: 1rem; }
     main .icons a {
@@ -426,7 +425,7 @@ main {
     color: #eece1a; }
   main {
     padding: 4rem;
-    min-height: calc(100vh - 40px); }
+  }
   main .icons {
     margin-top: 1rem; }
   main .icons a {
@@ -538,7 +537,7 @@ main {
   div.menu-branding.show {
     transform: translate3d(0, 0, 0); }
   .menu-nav {
-    height: 75vh;
+    height: 65vh;
     transform: translate3d(-100%, 0, 0);
     font-size: 24px; }
   .menu-branding {
