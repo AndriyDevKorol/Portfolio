@@ -145,7 +145,8 @@ header {
   color: #eece1a; }
 
 main {
-  padding: 4rem; }
+  padding: 4rem;
+  height: 94vh;}
   main .icons {
     margin-top: 1rem; }
     main .icons a {
