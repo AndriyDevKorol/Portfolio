@@ -166,7 +166,7 @@ main {
   grid-template-columns: repeat(3, 1fr); }
   .about-info img.bio-image {
     grid-area: bioimage;
-    background-image: url("../234.png");
+    background-image: url("234.png");
     background-size:cover;
     margin: auto;
     border-radius: 50%;
