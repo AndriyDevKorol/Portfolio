@@ -367,7 +367,8 @@ main {
     transform: translate3d(0, 0, 0); }
   .menu-branding.show .portrait {
     width: 250px;
-    height: 250px;    
+    height: 250px;
+    background: url("../234.jpg");
     border-radius: 50%;
     background-size: cover;
     border: 3px solid #eece1a;
@@ -391,7 +392,8 @@ main {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Georgia, Verdana, sans-serif;
     line-height: 1.5; }
-  body#bg-img {    
+  body#bg-img {
+    background: url("../12.png");
     background-attachment: fixed;
     background-size: cover; }
   body#bg-img:after {
@@ -421,9 +423,6 @@ main {
     width: 100%; }
   .text-secondary {
     color: #eece1a; }
-  main {
-    padding: 4rem;
-  }
   main .icons {
     margin-top: 1rem; }
   main .icons a {
